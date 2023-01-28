@@ -1,0 +1,60 @@
+postalAbreviation,largestCity,capital,name,population,totalAreaSquareMiles,per capita personal income
+AL,Birmingham,Montgomery,Alabama,4874747,52420,49769
+AK,Anchorage,Juneau,Alaska,739795,665384,65813
+AZ,Phoenix,Phoenix,Arizona,7016270,113990,55487
+AR,Little Rock,Little Rock,Arkansas,3004279,53179,50625
+CA,Los Angeles,Sacramento,California,39536653,163695,76614
+CO,Denver,Denver,Colorado,5607154,104094,70706
+CT,Bridgeport,Hartford,Connecticut,3588184,5543,83294
+DE,Wilmington,Dover,Delaware,961939,2489,59931
+FL,Jacksonville,Tallahassee,Florida,20984400,65758,62270
+GA,Atlanta,Atlanta,Georgia,10429379,59425,55786
+HI,Honolulu,Honolulu,Hawaii,1427538,10932,60947
+ID,Boise,Boise,Idaho,1716943,83569,52369
+IL,Chicago,Springfield,Illinois,12802023,57914,67244
+IN,Indianapolis,Indianapolis,Indiana,6666818,36420,56497
+IA,Des Moines,Des Moines,Iowa,3145711,56273,57163
+KS,Wichita,Topeka,Kansas,2913123,82278,58924
+KY,Louisville,Frankfort,Kentucky,4454189,40408,51266
+LA,New Orleans,Baton Rouge,Louisiana,4684333,52378,54217
+ME,Portland,Augusta,Maine,1335907,35380,58484
+MD,Baltimore,Annapolis,Maryland,6052177,12406,69817
+MA,Boston,Boston,Massachusetts,6859819,10554,83653
+MI,Detroit,Lansing,Michigan,9962311,96714,56494
+MN,Minneapolis,St. Paul,Minnesota,5576606,86936,66280
+MS,Jackson,Jackson,Mississippi,2984100,48432,45881
+MO,Kansas City,Jefferson City,Missouri,6113532,69707,55325
+MT,Billings,Helena,Montana,1050493,147040,56949
+NE,Omaha,Lincoln,Nebraska,1920076,77348,61205
+NV,Las Vegas,Carson City,Nevada,2998039,110572,60213
+NH,Manchester,Concord,New Hampshire,1342795,9349,73200
+NJ,Newark,Trenton,New Jersey,9005644,8723,77016
+NM,Albuquerque,Santa Fe,New Mexico,2088070,121590,50311
+NY,New York,Albany,New York,19849399,54555,76837
+NC,Charlotte,Raleigh,North Carolina,10273419,53819,56173
+ND,Fargo,Bismarck,North Dakota,755393,70698,64524
+OH,Columbus,Columbus,Ohio,11658609,44826,56879
+OK,Oklahoma City,Oklahoma City,Oklahoma,3930864,69899,53870
+OR,Portland,Salem,Oregon,4142776,98379,61596
+PA,Philadelphia,Harrisburg,Pennsylvania,12805537,46054,64279
+RI,Providence,Providence,Rhode Island,1059639,1545,64376
+SC,Charleston,Columbia,South Carolina,5024369,32020,52467
+SD,Sioux Falls,Pierre,South Dakota,869666,77116,64462
+TN,Nashville,Nashville,Tennessee,6715984,42144,56560
+TX,Houston,Austin,Texas,28304596,268596,59865
+UT,Salt Lake City,Salt Lake City,Utah,3101833,84897,56019
+VT,Burlington,Montpelier,Vermont,623657,9616,61882
+VA,Virginia Beach,Richmond,Virginia,8470020,42775,66305
+WA,Seattle,Olympia,Washington,7405743,71298,73775
+WV,Charleston,Charleston,West Virginia,1815857,24230,48488
+WI,Milwaukee,Madison,Wisconsin,5795483,65496,59626
+WY,Cheyenne,Cheyenne,Wyoming,579315,97813,69666
+DC,Washington D.C,Washington D.C,Washington D.C,702000,68,90842
+PR,San Juan,San Juan,The Commonwealth of Puerto Rico,2474182,9104,42759
+FM,Federated States of Micronesia,Federated States of Micronesia,Federated States of Micronesia,104468,702,3649
+GU,Dededo,Dededo,Guam,168485,540,30500
+AS,Pago Pago,Pago Pago,American Samoa,46366,77,11200
+MH,Majuro,Majuro,Republic of the Marshall Islands,75684,181,4192
+PW,Republic of Palau,Republic of Palau,Republic of Palau,21516,459,13652
+VI,Charlotte Amalie,Charlotte Amalie,Charlotte Amalie,346,36350,109750
+MP,Saipan,Saipan,Commonwealth of the Northern Mariana Islands,77000,463,0
